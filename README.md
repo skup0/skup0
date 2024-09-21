@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi my name is Stefan Kupiak
+
+I'm currently a Computer Science Student @ York University 
+
+
+![image](https://github.com/user-attachments/assets/10341728-14f0-4d20-8879-8348b239f59b)
+
+
+This is where I'll be listing all my coding projects, so stay tuned for future developments, thanks! 
 
 <!--
 **skup0/skup0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
