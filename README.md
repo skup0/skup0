@@ -1,4 +1,4 @@
-Hi my name is Stefan Kupiak
+Hi my name is Stefan
 
 I'm currently a Computer Science Student @ York University 
 
